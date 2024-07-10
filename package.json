@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "react-native-elements": "0.19.1"
+  }
+}
